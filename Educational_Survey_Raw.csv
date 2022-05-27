@@ -1,17 +1,17 @@
-타임스탬프,Q1,Q2,Q3,Q4,Q5,Q6-1(Personal savings),Q6-2(Scholarship),Q6-3(Parents),Q6-4(Loan),Q6-5(University funding),Q7,Q8,Q9,Q10,Q11,Q12
-2022. 5. 19 오전 10:53:52,International,China,Master's degree,English Language Course,2000~5000 CAD,Personal savings,,,,,I do not have any loan.,Above 8000 CAD,Somewhat satisfied,Male,Above 30,Married
-2022. 5. 19 오전 10:56:02,International,Libya,Master's degree,English Language Course,2000~5000 CAD,,Scholarship,,,,I do not have any loan.,3000~5000 CAD,Somewhat satisfied,Male,Above 30,Married
-2022. 5. 19 오전 11:52:49,International,Brazil,Secondary high school,English Language Course,2000~5000 CAD,,,Parents,,,I do not have any loan.,Above 8000 CAD,Very satisfied,Male,18~22,Single
-2022. 5. 19 오후 12:02:41,International,France,Master's degree,Master's degree,2000~5000 CAD,,,Parents,Loan,,2000-5000 CAD,Above 8000 CAD,Very satisfied,Male,23~30,Married
-2022. 5. 19 오후 12:20:07,International,Japan,Secondary high school,English Language Course,5000~8000 CAD,Personal savings,,,,,I do not have any loan.,3000~5000 CAD,Not so satisfied,Female,18~22,Single
-2022. 5. 20 오전 9:30:40,Domestic,Canada,Bachelor's degree,Bachelor's degree,2000~5000 CAD,Personal savings,,Parents,,,I do not have any loan.,3000~5000 CAD,Not so satisfied,Male,23~30,Single
-2022. 5. 20 오후 4:16:38,Domestic,Canada,Bachelor's degree,Bachelor's degree,2000~5000 CAD,Personal savings,Scholarship,,Loan,University funding,above 8000 CAD,Below 3000 CAD,Somewhat satisfied,Female,23~30,Single
-2022. 5. 21 오전 10:42:27,Domestic,Canada,Bachelor's degree,Bachelor's degree,5000~8000 CAD,Personal savings,,,Loan,,above 8000 CAD,Below 3000 CAD,Not at all satisfied,Female,23~30,Prefer not to say
-2022. 5. 24 오전 11:16:35,International,Japan,Secondary high school,English Language Course,Below 2000 CAD,,,Parents,,,I do not have any loan.,3000~5000 CAD,Somewhat satisfied,Female,18~22,Single
-2022. 5. 24 오전 11:53:35,Domestic,South Korea,Master's degree,Master's degree,Below 2000 CAD,,Scholarship,,,,I do not have any loan.,3000~5000 CAD,Somewhat satisfied,Female,23~30,Single
-2022. 5. 24 오전 11:54:01,International,china,Master's degree,English Language Course,2000~5000 CAD,Personal savings,,,,,I do not have any loan.,Above 8000 CAD,Somewhat satisfied,Male,Above 30,Married
-2022. 5. 24 오전 11:56:20,International,Germany,Secondary high school,English Language Course,Below 2000 CAD,,,Parents,,,I do not have any loan.,Below 3000 CAD,Very satisfied,Female,18~22,Single
-2022. 5. 24 오후 12:00:44,International,Chile,Bachelor's degree,English Language Course,2000~5000 CAD,Personal savings,,,,,I do not have any loan.,5000~8000 CAD,Very satisfied,Male,Above 30,Married
-2022. 5. 25 오전 8:39:45,International,Yemen,Bachelor's degree,English Language Course,2000~5000 CAD,Personal savings,Scholarship,,,,I do not have any loan.,Above 8000 CAD,Very satisfied,Male,23~30,Single
-2022. 5. 25 오후 10:14:39,Domestic,Canada,Master's degree,Bachelor's degree,Below 2000 CAD,,,,Loan,,above 8000 CAD,3000~5000 CAD,Somewhat satisfied,Female,Above 30,Single
-2022. 5. 26 오전 11:32:55,International,Germany,Secondary high school,English Language Course,2000~5000 CAD,Personal savings,,Parents,,,I do not have any loan.,Below 3000 CAD,Somewhat satisfied,Female,18~22,Prefer not to say
+Q1,Q2,Q3,Q4,Q5,Q6-1(Personal savings),Q6-2(Scholarship),Q6-3(Parents),Q6-4(Loan),Q6-5(University funding),Q7,Q8,Q9,Q10,Q11,Q12
+International,China,Master's degree,English Language Course,2000~5000 CAD,Personal savings,,,,,I do not have any loan.,Above 8000 CAD,Somewhat satisfied,Male,Above 30,Married
+International,Libya,Master's degree,English Language Course,2000~5000 CAD,,Scholarship,,,,I do not have any loan.,3000~5000 CAD,Somewhat satisfied,Male,Above 30,Married
+International,Brazil,Secondary high school,English Language Course,2000~5000 CAD,,,Parents,,,I do not have any loan.,Above 8000 CAD,Very satisfied,Male,18~22,Single
+International,France,Master's degree,Master's degree,2000~5000 CAD,,,Parents,Loan,,2000-5000 CAD,Above 8000 CAD,Very satisfied,Male,23~30,Married
+International,Japan,Secondary high school,English Language Course,5000~8000 CAD,Personal savings,,,,,I do not have any loan.,3000~5000 CAD,Not so satisfied,Female,18~22,Single
+Domestic,Canada,Bachelor's degree,Bachelor's degree,2000~5000 CAD,Personal savings,,Parents,,,I do not have any loan.,3000~5000 CAD,Not so satisfied,Male,23~30,Single
+Domestic,Canada,Bachelor's degree,Bachelor's degree,2000~5000 CAD,Personal savings,Scholarship,,Loan,University funding,above 8000 CAD,Below 3000 CAD,Somewhat satisfied,Female,23~30,Single
+Domestic,Canada,Bachelor's degree,Bachelor's degree,5000~8000 CAD,Personal savings,,,Loan,,above 8000 CAD,Below 3000 CAD,Not at all satisfied,Female,23~30,Prefer not to say
+International,Japan,Secondary high school,English Language Course,Below 2000 CAD,,,Parents,,,I do not have any loan.,3000~5000 CAD,Somewhat satisfied,Female,18~22,Single
+Domestic,South Korea,Master's degree,Master's degree,Below 2000 CAD,,Scholarship,,,,I do not have any loan.,3000~5000 CAD,Somewhat satisfied,Female,23~30,Single
+International,china,Master's degree,English Language Course,2000~5000 CAD,Personal savings,,,,,I do not have any loan.,Above 8000 CAD,Somewhat satisfied,Male,Above 30,Married
+International,Germany,Secondary high school,English Language Course,Below 2000 CAD,,,Parents,,,I do not have any loan.,Below 3000 CAD,Very satisfied,Female,18~22,Single
+International,Chile,Bachelor's degree,English Language Course,2000~5000 CAD,Personal savings,,,,,I do not have any loan.,5000~8000 CAD,Very satisfied,Male,Above 30,Married
+International,Yemen,Bachelor's degree,English Language Course,2000~5000 CAD,Personal savings,Scholarship,,,,I do not have any loan.,Above 8000 CAD,Very satisfied,Male,23~30,Single
+Domestic,Canada,Master's degree,Bachelor's degree,Below 2000 CAD,,,,Loan,,above 8000 CAD,3000~5000 CAD,Somewhat satisfied,Female,Above 30,Single
+International,Germany,Secondary high school,English Language Course,2000~5000 CAD,Personal savings,,Parents,,,I do not have any loan.,Below 3000 CAD,Somewhat satisfied,Female,18~22,Prefer not to say
